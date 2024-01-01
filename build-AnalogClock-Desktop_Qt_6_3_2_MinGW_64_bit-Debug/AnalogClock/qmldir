@@ -1,0 +1,10 @@
+module AnalogClock
+typeinfo appAnalogClock.qmltypes
+prefer :/AnalogClock/
+Body 1.0 Body.qml
+Point 1.0 Point.qml
+BackGraund 1.0 BackGraund.qml
+Hand 1.0 Hand.qml
+MinHand 1.0 MinHand.qml
+HrHand 1.0 HrHand.qml
+

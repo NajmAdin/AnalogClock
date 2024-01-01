@@ -1,0 +1,12 @@
+-rootPath
+F:/project/qt/QML/AnalogClock/AnalogClock
+-cmake-output
+-output-file
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appAnalogClock.cmake
+-importPath
+C:/Qt/6.3.2/mingw_64/./qml
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/AnalogClock
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug
+-qrcFiles
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.rcc/qmake_AnalogClock.qrc
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/.rcc/appAnalogClock_raw_qml_0.qrc

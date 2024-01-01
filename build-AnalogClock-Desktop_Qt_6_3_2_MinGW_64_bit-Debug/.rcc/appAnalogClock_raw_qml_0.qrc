@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/AnalogClock/">
+    <file alias="main.qml">F:/project/qt/QML/AnalogClock/AnalogClock/main.qml</file>
+    <file alias="Body.qml">F:/project/qt/QML/AnalogClock/AnalogClock/Body.qml</file>
+    <file alias="Point.qml">F:/project/qt/QML/AnalogClock/AnalogClock/Point.qml</file>
+    <file alias="BackGraund.qml">F:/project/qt/QML/AnalogClock/AnalogClock/BackGraund.qml</file>
+    <file alias="Hand.qml">F:/project/qt/QML/AnalogClock/AnalogClock/Hand.qml</file>
+    <file alias="MinHand.qml">F:/project/qt/QML/AnalogClock/AnalogClock/MinHand.qml</file>
+    <file alias="HrHand.qml">F:/project/qt/QML/AnalogClock/AnalogClock/HrHand.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,16 @@
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_qmltyperegistration.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_other_files.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_qmllint.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_tooling.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_qmlimportscan.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_autogen_timestamp_deps.dir
+F:/project/qt/QML/AnalogClock/build-AnalogClock-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/appAnalogClock_autogen.dir
